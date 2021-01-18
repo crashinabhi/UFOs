@@ -10,7 +10,7 @@ This analysis is mainly being conducted to filter the observations by date as we
 - for example, if we select the date 1/1/2010 and the city as el cajon, state as ca, country as us and shape as light it will display the data as shown below.
 
 
-![](images/Filtered_results)
+![](static/images/Filtered_results)
 
 ## Summary
 - Although this added capability will help to narrow down the search results there are some drawbacks to this. When the list of sightings will go on increasing it will be difficult to filter to the desired results with out knowing all the available options to filter. A drop-down option will be more helpful to filter to the desired sightings.
